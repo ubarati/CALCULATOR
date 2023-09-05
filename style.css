@@ -1,0 +1,44 @@
+body{
+    background-image: url("./asset/Back.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+} 
+#h{
+    color: white;
+    max-width: 815px;
+    margin: 0 auto;
+    margin-top: 35px;
+    text-align: center;
+    background-color: rgb(36, 36, 36);
+}
+#BOX{
+    
+    max-width: 800px;
+    background-color: rgba(128, 128, 128, 0.384);
+    margin: 0 auto;
+    border: 2px solid black;
+    border-style: none;
+    height: 500px;
+    width: 800px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+#t1,#t2,#t3,#t4,#t5,#t6{
+    background-color: rgba(240, 255, 255, 0.541);
+    margin-left: 2px;
+    
+}
+#t7,#t8,#t9,#t10,#t11{
+    background-color: rgba(240, 255, 255, 0.541);
+    margin-left: 2px;
+    margin-top: 8px;
+    
+}
+#t12{
+    background-color: rgba(240, 255, 255, 0.541);
+    margin-left: 12px;
+    margin-top: 8px;
+}
